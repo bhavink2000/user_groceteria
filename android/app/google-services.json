@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "912084265308",
+    "project_id": "groceryee-b0745",
+    "storage_bucket": "groceryee-b0745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912084265308:android:580a7f31f519e486d07999",
+        "android_client_info": {
+          "package_name": "io.flutter.ultimate.grocery.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmxPL8RgIuoUlgGGV7zagEJA6w0-N9Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912084265308-400r05nh80kstv8ifdhbgttfb4ci1nta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.grocery.ultimate.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912084265308:android:b31386b04fb576ecd07999",
+        "android_client_info": {
+          "package_name": "io.initappz.grocery.ultimate.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmxPL8RgIuoUlgGGV7zagEJA6w0-N9Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912084265308-400r05nh80kstv8ifdhbgttfb4ci1nta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.grocery.ultimate.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912084265308:android:705f8533c14d1d0fd07999",
+        "android_client_info": {
+          "package_name": "io.initappz.grocery.ultimate.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmxPL8RgIuoUlgGGV7zagEJA6w0-N9Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912084265308-400r05nh80kstv8ifdhbgttfb4ci1nta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.grocery.ultimate.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912084265308:android:8ddc4f3058d8d03ad07999",
+        "android_client_info": {
+          "package_name": "io.initappz.grocery.ultimate.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmxPL8RgIuoUlgGGV7zagEJA6w0-N9Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912084265308-400r05nh80kstv8ifdhbgttfb4ci1nta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.grocery.ultimate.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912084265308:android:435b71aae8bb9becd07999",
+        "android_client_info": {
+          "package_name": "io.initappz.ultimate.grocery.driver.ultimate_grocery_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmxPL8RgIuoUlgGGV7zagEJA6w0-N9Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912084265308-400r05nh80kstv8ifdhbgttfb4ci1nta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.grocery.ultimate.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912084265308:android:a70e8680746088a2d07999",
+        "android_client_info": {
+          "package_name": "io.initappz.ultimate.grocery.ultimate_grocery_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmxPL8RgIuoUlgGGV7zagEJA6w0-N9Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912084265308-400r05nh80kstv8ifdhbgttfb4ci1nta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.grocery.ultimate.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912084265308:android:b69131b5093fa71fd07999",
+        "android_client_info": {
+          "package_name": "io.initappz.ultimate.grocery.vendor.ultimate_grocery_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmxPL8RgIuoUlgGGV7zagEJA6w0-N9Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912084265308-sel4vogiukb4cksqtv8akrmihgthdjsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912084265308-400r05nh80kstv8ifdhbgttfb4ci1nta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.grocery.ultimate.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
